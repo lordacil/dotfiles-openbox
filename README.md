@@ -1,8 +1,11 @@
 # dotfiles-openbox
 
 ### SNK Theme
-
 ![screenshot_20200708-162448_1366x768](https://user-images.githubusercontent.com/56204095/86911220-27089700-c145-11ea-9f12-b789c34f336a.png)
+### MAC KW Theme
+![screenshot_20200518-181504_1366x768](https://user-images.githubusercontent.com/56204095/86931559-71e4d780-c162-11ea-8667-9d1ef804f24e.png)
+### WIN95 Theme
+![lordacil2020_04_19_22-19-27-1366x768](https://user-images.githubusercontent.com/56204095/86933386-afe2fb00-c164-11ea-900b-dd32fec05a52.png)
 ## Details
 ### HP 14-an004au
 - **Distro** Manjaro
