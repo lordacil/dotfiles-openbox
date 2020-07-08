@@ -30,3 +30,18 @@
 - **Brightness Manager** xbacklight
 - **Music Player** Audacious
 - **Office Suite** WPS
+
+### Key-Bindings
+- **Super** Launch jgmenu
+- **Super + E** Launch URxvt
+- **Alt + Tab** Switch to next window
+- **Super + Tab** Launch skippy-xd
+- **Super + 1~4** Goto desktop
+- **Alt + R** Resize window
+- **Alt + 1** Move window
+- **Alt + 2** Toogle Max window
+- **Alt + 3** Toogle Decoration window
+- **Alt + f2** Launch Rofi
+- **Alt + print** Launch scrot
+- **Super + f** Launch Filemanager
+- **Ctrl + Alt + L** Lockscreen
