@@ -1,7 +1,7 @@
 # dotfiles-openbox
 
 ### SNK Theme
-![screenshot_20200708-162448_1366x768](https://user-images.githubusercontent.com/56204095/86911220-27089700-c145-11ea-9f12-b789c34f336a.png)
+![screenshot_20200718-040609_1366x768](https://user-images.githubusercontent.com/56204095/87832743-db768b80-c8b0-11ea-9bc4-a8e70e92fd03.png)
 ### MAC KW Theme
 ![screenshot_20200518-181504_1366x768](https://user-images.githubusercontent.com/56204095/86931559-71e4d780-c162-11ea-8667-9d1ef804f24e.png)
 ### WIN95 Theme
