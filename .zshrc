@@ -98,7 +98,10 @@ source $ZSH/oh-my-zsh.sh
 neofetch
 export ANDROID_HOME=$HOME/Android/Sdk
 export PATH=$PATH:$ANDROID_HOME/tools
-export PATH=$PATH:/home/lordacil/Flutter/flutter/bin/
+# export PATH=$PATH:/home/lordacil/Flutter/flutter/bin/
+export PATH=$PATH:/home/lordacil/Flutter_SDK/flutter/bin/
+export PATH=$PATH:/opt/google/chrome/
+
 
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
 export SDKMAN_DIR="/home/lordacil/.sdkman"

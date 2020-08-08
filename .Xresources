@@ -9,10 +9,10 @@ emacs*background:   #fefefe
 URxvt*foreground:   #7A7A7A
 XTerm*foreground:   #7A7A7A
 UXTerm*foreground:  #7A7A7A
-URxvt*background:   [100]#2f343f
+URxvt*background:   [100]#373E4D
 XTerm*background:   #fefefe
 UXTerm*background:  #303145
-URxvt*cursorColor:  #b48ead
+URxvt*cursorColor:  #373E4D
 XTerm*cursorColor:  #EEEEEE
 UXTerm*cursorColor: #EEEEEE  17
 !URxvt.geometry: 40x35
@@ -58,6 +58,9 @@ URxvt.clipboard.autocopy: true
 *.color7  : #e5e9f0
 *.color15 : #d1d5dc
 
+! pink
+*.color28 : #f78fb3
+
 ! Black color that will not be affected by bold highlighting.
 *.color66: #fefefe
 *color66:  #fefefe
@@ -84,7 +87,7 @@ URxvt.letterSpace: 0
 URxvt.lineSpace: 0
 URxvt.geometry: 62x15
 URxvt.internalBorder: 24
-URxvt.cursorBlink: true
+URxvt.cursorBlink: false
 URxvt.cursorUnderline: false
 URxvt.saveline: 2048
 URxvt.scrollBar: false
