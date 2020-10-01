@@ -1,5 +1,9 @@
 # dotfiles-openbox
 
+### Flat Theme
+![screenshot_20200811-005057_1366x768](https://user-images.githubusercontent.com/56204095/94836566-51fd4100-043d-11eb-95d7-1e87e4db6bca.png)
+### Kawai Theme
+![screenshot_20200811-112935_1366x768](https://user-images.githubusercontent.com/56204095/94836758-8cff7480-043d-11eb-9cb0-9a6ef0d1971b.png)
 ### SNK Theme
 ![screenshot_20200718-040609_1366x768](https://user-images.githubusercontent.com/56204095/87832743-db768b80-c8b0-11ea-9bc4-a8e70e92fd03.png)
 ### MAC KW Theme
