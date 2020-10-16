@@ -74,26 +74,6 @@ feh --bg-fill "/path/to/yourwallpaper.jpg"
 
 See `feh-blur --help` for full usage options.
 
-```
-Usage: feh-blur [-v|--verbose]
-
-Options:
-  -b, --blur N            set blur strength to N (4...128, default 32)
-      --darken N          darken image by N (4...100, default 32)
-      --lighten N         lengthen image by N (4...100, default 0)
-  -c, --uncontrast        reduce contrast
-      --save-image PATH   save blurred image to PATH
-      --no-animate        skip fading animation
-
-Daemon options:
-  -d, --daemon            run in background
-  -s, --stop              stop previously-ran daemon
-
-Other options:
-  -v, --verbose           show more messages
-  -q, --quiet             supress messages
-```
-
 ## Installation
 
 Install [feh-blur](./feh-blur) somewhere. You may also need some dependencies, install them using your Linux distro's appropriate package manager.
