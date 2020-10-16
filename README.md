@@ -48,3 +48,62 @@
 - **Alt + print** Launch scrot
 - **Super + f** Launch Filemanager
 - **Ctrl + Alt + L** Lockscreen
+
+
+## How to Make Wallpaper Blur using feh-blur
+
+Run `feh-blur`. (Tip: optionally, you can pass `-d` to it to run it in the background.)
+
+```sh
+# Step 1: run the feh-blur service
+$ feh-blur
+
+ >> Monitoring changes
+    feh-blur will now blur any wallpapers set using 'feh'.
+
+ >> Found wallpaper
+    /home/rsc/wallpapers/unsplash.jpg
+    Generating blurred images... done.
+```
+
+Set a wallpaper using [feh]. You can do this before starting feh-blur, or while feh-blur is running.
+
+```
+feh --bg-fill "/path/to/yourwallpaper.jpg"
+```
+
+See `feh-blur --help` for full usage options.
+
+```
+Usage: feh-blur [-v|--verbose]
+
+Options:
+  -b, --blur N            set blur strength to N (4...128, default 32)
+      --darken N          darken image by N (4...100, default 32)
+      --lighten N         lengthen image by N (4...100, default 0)
+  -c, --uncontrast        reduce contrast
+      --save-image PATH   save blurred image to PATH
+      --no-animate        skip fading animation
+
+Daemon options:
+  -d, --daemon            run in background
+  -s, --stop              stop previously-ran daemon
+
+Other options:
+  -v, --verbose           show more messages
+  -q, --quiet             supress messages
+```
+
+## Installation
+
+Install [feh-blur](./feh-blur) somewhere. You may also need some dependencies, install them using your Linux distro's appropriate package manager.
+
+```sh
+# Arch Linux
+sudo pacman -S wmctrl graphicsmagick feh
+
+# Ubuntu and alike
+sudo apt install wmctrl graphicsmagick feh
+```
+
+
