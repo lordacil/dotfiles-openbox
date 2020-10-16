@@ -6,10 +6,6 @@
 ![screenshot_20200811-112935_1366x768](https://user-images.githubusercontent.com/56204095/94836758-8cff7480-043d-11eb-9cb0-9a6ef0d1971b.png)
 ### SNK Theme
 ![screenshot_20200718-040609_1366x768](https://user-images.githubusercontent.com/56204095/87832743-db768b80-c8b0-11ea-9bc4-a8e70e92fd03.png)
-### MAC KW Theme
-![screenshot_20200518-181504_1366x768](https://user-images.githubusercontent.com/56204095/86931559-71e4d780-c162-11ea-8667-9d1ef804f24e.png)
-### WIN95 Theme
-![lordacil2020_04_19_22-19-27-1366x768](https://user-images.githubusercontent.com/56204095/86933386-afe2fb00-c164-11ea-900b-dd32fec05a52.png)
 ## Details
 ### HP 14-an004au
 - **Distro** Manjaro
